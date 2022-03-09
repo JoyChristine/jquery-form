@@ -5,14 +5,14 @@
 A short story appears at the  bottom after the form is submitted and the fields are filled.
 
 ## Live Page
-https://joychristine.github.io/Akan-Names/
+https://joychristine.github.io/jquery-form/
 
  ## Installation / Setup instruction
 Open Terminal {Ctrl+Alt+T}
 
-git clone https://joychristine.github.io/Akan-Names/
+git clone https://joychristine.github.io/jquery-form/
 
-cd Akan-Names
+cd jquery-form
 
 code . or atom . depending on the text editor of your choice.
 
